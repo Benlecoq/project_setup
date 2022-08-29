@@ -5,6 +5,7 @@ install_requirements:
 	@pip install -r requirements.txt
 
 # COMMENT
+# ANOTHER COMMENT
 
 check_code:
 	@flake8 scripts/* project_setup/*.py
